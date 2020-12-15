@@ -28,7 +28,7 @@ packaging==19.0
 pep8==1.7.1
 pkginfo==1.5.0.1
 pluggy==0.9.0
-py==1.8.0
+py==1.10.0
 pycares==3.0.0
 pycodestyle==2.5.0
 pycparser==2.19
