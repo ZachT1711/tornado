@@ -62,3 +62,4 @@ urllib3==1.24.3
 virtualenv==16.5.0
 webencodings==0.5.1
 zope.interface==4.6.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
