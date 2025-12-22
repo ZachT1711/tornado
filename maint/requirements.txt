@@ -13,7 +13,7 @@ constantly==15.1.0
 coverage==4.5.3
 docutils==0.14
 entrypoints==0.3
-filelock==3.0.10
+filelock==3.20.1
 flake8==3.7.7
 hyperlink==19.0.0
 idna==2.8
