@@ -13,7 +13,7 @@ constantly==15.1.0
 coverage==4.5.3
 docutils==0.14
 entrypoints==0.3
-filelock==3.0.10
+filelock==3.20.3
 flake8==3.7.7
 hyperlink==19.0.0
 idna==2.8
@@ -58,7 +58,7 @@ tqdm==4.31.1
 twine==1.13.0
 twisted==19.7.0
 typed-ast==1.1.2
-urllib3==1.24.3
+urllib3==2.6.3
 virtualenv==16.5.0
 webencodings==0.5.1
 zope.interface==4.6.0
